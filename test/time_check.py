@@ -1,0 +1,15 @@
+from wechatarticles.utils import timestamp2date
+
+print(timestamp2date(1645589449))
+print(timestamp2date(1644664034))
+print(timestamp2date(1638846000))
+print(timestamp2date(1633437000))
+print(timestamp2date(1632913200))
+print(timestamp2date(1628679600))
+print(timestamp2date(1627302615))
+print(timestamp2date(1626699600))
+print(timestamp2date(1625914800))
+print(timestamp2date(1625310000))
+print(timestamp2date(1624532454))
+print(timestamp2date(1621076400))
+print(timestamp2date(1619184387))
